@@ -11,13 +11,19 @@
 
 ### 基础知识
 
+我经常查阅的Python基础讲解。
+
+- [廖雪峰讲PYTHON](https://www.liaoxuefeng.com/wiki/1016959663602400)：十年软件开发经验，精通Java/Python/Ruby/Scheme/Objective C等，对开源框架有深入研究。
+- [极客教程](https://geek-docs.com/)：综合类的基础编程基础知识。
+- [Python 数据之道](http://liyangbit.com/)：让数据更有价值。
+- [菜鸟教程](https://www.runoob.com/)：包含各种示例，适合初学者学习。
+
 ### 常用资源
 
 我经常访问的各类学习资源。
 
 - [CSDN社区](https://www.csdn.net/)：专业开发者社区，可以查阅、讨论各种专业知识。
 - [伯乐在线](https://github.com/jobbole)：维护大量的中文python资源库，分享最新、有趣和热门的开源项目。
-- [廖雪峰讲PYTHON](https://www.liaoxuefeng.com/wiki/1016959663602400)：十年软件开发经验，精通Java/Python/Ruby/Scheme/Objective C等，对开源框架有深入研究。
 - [清华大学开源资源镜像站](https://mirrors.tuna.tsinghua.edu.cn/)：清华大学 TUNA 协会，全名清华大学学生网络与开源软件协会，是由清华大学热爱网络技术和开源软件的极客组成的学生技术社团。
 
 ### 练习程序
