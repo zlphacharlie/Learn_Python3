@@ -18,6 +18,12 @@
 - [Python 数据之道](http://liyangbit.com/)：让数据更有价值。
 - [菜鸟教程](https://www.runoob.com/)：包含各种示例，适合初学者学习。
 
+### 量化投资
+
+我经常访问的量化资源。
+
+- [VNPY](https://github.com/vnpy/vnpy)：基于Python的开源量化交易系统开发框架，整合了多种交易接口，并针对具体策略算法和功能开发提供了简洁易用的API，用于快速构建交易员所需的量化交易应用.
+
 ### 常用资源
 
 我经常访问的各类学习资源。
@@ -30,4 +36,4 @@
 
 我自己测试学习用的代码。
 
-- [数据类型](https://github.com/ZlphaCharlie/Learn_Python3/blob/main/tutorials/datatype.py)：Python 基础的数据类型代码测试。
+- [数据类型](https://github.com/zlphacharlie/Learn_Python3/blob/main/tutorials/datatype.py)：Python 基础的数据类型代码测试。
