@@ -17,7 +17,7 @@
 - [极客教程](https://geek-docs.com/)：综合类的基础编程基础知识。
 - [Python 数据之道](http://liyangbit.com/)：让数据更有价值。
 - [菜鸟教程](https://www.runoob.com/)：包含各种示例，适合初学者学习。
-- [Xlwings](https://www.xlwings.org/)：「<u>xlwings</u>」实现了Excel中调用Python，python中调用Excel的骚操作，支持.xls文件的读，支持.xlsx文件的读写，支持VBA的操作，另外还支持和Numpy、Pandas结合进行操作，在很大程度上扩展了应用。
+- [Xlwings](https://www.xlwings.org/)：「<u>xlwings</u>」实现了Excel中调用Python，python中调用Excel的骚操作，支持.xls文件的读，支持.xlsx文件的读写，支持VBA的操作，另外还支持和Numpy、Pandas结合进行操作，在很大程度上扩展了应用。[文档说明xlwings - 让Excel飞翔！](https://docs.xlwings.org/en/stable/)
 
 ### 量化投资
 
