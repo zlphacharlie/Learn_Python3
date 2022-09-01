@@ -13,10 +13,10 @@
 
 我经常查阅的Python基础讲解。
 
-- [廖雪峰讲PYTHON](https://www.liaoxuefeng.com/wiki/1016959663602400)：十年软件开发经验，精通Java/Python/Ruby/Scheme等，对开源框架有深入研究。
+- [廖雪峰讲PYTHON](https://www.liaoxuefeng.com/wiki/1016959663602400)：十年软件开发经验，精通Java/Python/Ruby/Scheme等，对开源框架有深入研究。附：[Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 - [极客教程](https://geek-docs.com/)：综合类的基础编程基础知识。
 - [Python 数据之道](http://liyangbit.com/)：让数据更有价值。
-- [菜鸟教程](https://www.runoob.com/)：包含各种示例，适合初学者学习。
+- [菜鸟教程](https://www.runoob.com/)：包含各种示例\、教程，适合初学者学习。
 
 ### Python库
 
@@ -24,6 +24,7 @@
 
 - [Xlwings](https://www.xlwings.org/)：「<u>xlwings</u>」实现了Excel中调用Python，python中调用Excel的骚操作，支持.xls文件的读，支持.xlsx文件的读写，支持VBA的操作，另外还支持和Numpy、Pandas结合进行操作，在很大程度上扩展了应用。[xlwings - 让Excel飞翔！](https://docs.xlwings.org/zh_CN/latest/index.html)
 - [Pandas](https://pandas.pydata.org/)：Pandas是一个开放源码的Python库，它使用强大的数据结构提供高性能的数据操作。Pandas 纳入了大量库和一些标准的数据模型，提供了高效地操作大型数据集所需的工具。pandas提供了大量能使我们快速便捷地处理数据的函数和方法。[Pandas 常用函数](https://geek-docs.com/pandas/pandas-function/pandas-function.html)
+- [Django](https://www.djangoproject.com/)：完美主义者的Web框架。Django使得用更少的代码更快地构建更好的Web应用程序变得更加容易。附：[Django 教程](https://www.runoob.com/django/django-tutorial.html)
 
 ### 量化投资
 
