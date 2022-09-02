@@ -16,7 +16,7 @@
 - [廖雪峰讲PYTHON](https://www.liaoxuefeng.com/wiki/1016959663602400)：精通Java/Python/Ruby/Scheme等，对开源框架有深入研究。附：[Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 - [极客教程](https://geek-docs.com/)：综合类的基础编程基础知识。
 - [Python 数据之道](http://liyangbit.com/)：让数据更有价值。
-- [菜鸟教程](https://www.runoob.com/)：包含各种示例\、教程，适合初学者学习。
+- [菜鸟教程](https://www.runoob.com/)：包含各种示例、教程，适合初学者学习。
 
 ### Python库
 
