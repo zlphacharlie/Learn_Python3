@@ -38,6 +38,7 @@
 
 我经常访问的各类学习资源。
 
+- [查理岳资料库](https://github.com/zlphacharlie/Learn_Python3/tree/main/information)：<u>沉默的查理</u>整理的各种学习资料。
 - [CSDN社区](https://www.csdn.net/)：专业开发者社区，可以查阅、讨论各种专业知识。
 - [伯乐在线](https://github.com/jobbole)：维护大量的中文python资源库，分享最新、有趣和热门的开源项目。
 - [清华大学开源资源镜像站](https://mirrors.tuna.tsinghua.edu.cn/)：清华大学 TUNA 协会，全名清华大学学生网络与开源软件协会，是由清华大学热爱网络技术和开源软件的极客组成的学生技术社团。
