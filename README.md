@@ -49,6 +49,7 @@
 
 ### 练习程序
 
-我自己测试学习用的代码。
+我自己及网上测试学习用的代码。
 
 - [数据类型](https://github.com/zlphacharlie/Learn_Python3/blob/main/tutorials/datatype.py)：Python 基础的数据类型代码测试。
+- [小柒从零学phthon](https://gitee.com/52itstyle/Python)：各种开发案例，不定期更新，可以了解比较规范的编码方式。
