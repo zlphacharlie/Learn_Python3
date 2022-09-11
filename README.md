@@ -32,7 +32,7 @@
 我经常访问的量化资源。
 
 - [天勤量化](https://www.shinnytech.com/tianqin/)：提供量化全套解决方案，简单但强大的 Python开发包。通过清晰充足的示例文档、无门槛API接口、活跃的社区论坛，从简单到复杂帮助用户开发自己的期货交易策略。[TqSdk介绍](https://doc.shinnytech.com/tqsdk/latest/)
-- [VNPY](https://github.com/vnpy/vnpy)：基于Python的开源量化交易系统开发框架，整合了多种交易接口，并针对具体策略算法和功能开发提供了简洁易用的API，用于快速构建交易员所需的量化交易应用.
+- [VNPY](https://github.com/vnpy/vnpy)：基于Python的开源量化交易系统开发框架，整合了多种交易接口，并针对具体策略算法和功能开发提供了简洁易用的API，用于快速构建交易员所需的量化交易应用.[Gitee位置](https://gitee.com/vnpy/vnpy)、[VeighNa项目文档](https://www.vnpy.com/docs/cn/index.html)
 - [Tushare](https://tushare.pro/)：tushare 是一个开源的财经类数据的获取工具。免费提供各类数据 , 助力行业和量化研究。拥有丰富的数据内容，如股票、基金、期货、数字货币等行情数据，公司财务、基金经理等基本面数据。
 - [CTP开放平台运行环境监控](http://122.51.136.165:50080/detail.html)：由openctp提供的一套监控各套运行环境的网站，方便了解各测试环境是不是正常。
 
