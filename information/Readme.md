@@ -15,3 +15,5 @@
 
 ### 学习资料：
 - [vn.py 3.0.0源代码深入分析](https://github.com/zlphacharlie/Learn_Python3/blob/main/information/vn.py%203.0.0%E6%BA%90%E4%BB%A3%E7%A0%81%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90.pdf)
+- [numpy-tutorials](https://github.com/zlphacharlie/Learn_Python3/blob/main/information/numpy-tutorials.pdf)
+- [Python面试题](https://github.com/zlphacharlie/Learn_Python3/blob/main/information/Python%E9%9D%A2%E8%AF%95%E9%A2%98.pdf)
