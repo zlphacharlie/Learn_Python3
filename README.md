@@ -26,6 +26,7 @@
 - [Pandas](https://pandas.pydata.org/)：Pandas是一个开放源码的Python库，提供了大量能使我们快速便捷地处理数据的函数和方法。Pandas 纳入了大量库和一些标准的数据模型，提供了高效地操作大型数据集所需的工具。[Pandas 常用函数表](https://geek-docs.com/pandas/pandas-function/pandas-function.html)、[详细的函数使用教程](https://www.cjavapy.com/category/33/)
 - [Matplotlib](https://matplotlib.net/)：Matplotlib是一个Python 2D绘图库，它以多种硬拷贝格式和跨平台的交互式环境生成出版物质量的图形。Matplotlib可用于Python脚本，Python和IPython Shell，Jupyter笔记本，Web应用程序服务器和四个图形用户界面工具包。[Matplotlib教程](http://c.biancheng.net/matplotlib/)、[保姆级教程](https://zhuanlan.zhihu.com/p/399679043)
 - [Django](https://www.djangoproject.com/)：Django是完美主义者的Web框架，可以用更少的代码更快地构建Web应用程序。附：[Django 教程](https://www.runoob.com/django/django-tutorial.html)、[官方文档](https://docs.djangoproject.com/zh-hans/4.1/)、[参考指南](https://docs.djangoproject.com/zh-hans/4.1/topics/).
+- [pyecharts](https://github.com/pyecharts/pyecharts)：[Apache ECharts](https://echarts.apache.org/zh/index.html)是一个由百度开源的数据可视化，凭借着良好的交互性，精巧的图表设计，得到了众多开发者的认可。而 Python 是一门富有表达力的语言，很适合用于数据处理。当数据分析遇上数据可视化时，[pyecharts](https://github.com/pyecharts/pyecharts) 诞生了。[官方文档（中文）](https://pyecharts.org/#/zh-cn/intro)、[pyecharts教程](https://www.heywhale.com/mw/project/5eb7958f366f4d002d783d4a)、[50个完整例子](https://www.heywhale.com/mw/project/5faf844d7d1e6d0030d75665)
 
 ### 量化投资
 
@@ -44,6 +45,7 @@
 
 - [查理岳资料库](https://github.com/zlphacharlie/Learn_Python3/tree/main/information)：<u>沉默的查理</u>整理的各种学习资料。
 - [CSDN社区](https://www.csdn.net/)：专业开发者社区，可以查阅、讨论各种专业知识。
+- [和鲸社区](https://www.heywhale.com/home)：数据科学开源社区。聚集了30万+数据科学从业者及爱好者，数据人才在和鲸社区分享开源代码、复现实战案例、参与数据竞赛、记录成长历程。和鲸社区，帮助数据人才在交流中享受学习，在实践中快速成长。
 - [伯乐在线](https://github.com/jobbole)：维护大量的中文python资源库，分享最新、有趣和热门的开源项目。
 - [清华大学开源资源镜像站](https://mirrors.tuna.tsinghua.edu.cn/)：清华大学 TUNA 协会，全名清华大学学生网络与开源软件协会，是由清华大学热爱网络技术和开源软件的极客组成的学生技术社团。
 - [RGB颜色CODE](https://rgb.to/)：一个非常有趣的、方便的选择颜色的网站。
