@@ -36,6 +36,7 @@
 - [Tushare](https://tushare.pro/)：tushare 是一个开源的财经类数据的获取工具。免费提供各类数据 , 助力行业和量化研究。拥有丰富的数据内容，如股票、基金、期货、数字货币等行情数据，公司财务、基金经理等基本面数据。
 - [CTP开放平台运行环境监控](http://122.51.136.165:50080/detail.html)：由openctp提供的一套监控各套运行环境的网站，方便了解各测试环境是不是正常。
 - [TA-LIB](https://mrjbq7.github.io/ta-lib/)：Talib是一个Python 金融指数处理库，广泛应用与交易软件，和金融市场数据进行技术分析。[Talib中文文档](https://www.bookstack.cn/read/talib-zh/README.md)、[talib指标公式及释义整理](https://www.cnblogs.com/forest128/p/13823649.html)、[Talib技术因子详解](https://blog.csdn.net/suiyingy/category_11195125.html)
+- [qteasy](https://github.com/shepherdpp/qteasy)：一个基于Python的高效量化投资工具包。本项目旨在开发一套基于python的本地运行的量化交易策略回测和开发工具，目标为量化交易人员提供一套策略开发框架，回测速度快、回测精度高、评价指标全，而且可以非常灵活地实现各种自定义交易策略。
 
 ### 常用资源
 
